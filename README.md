@@ -1,2 +1,1 @@
-# chat uygulaması tasarım
-
+# chat app design
