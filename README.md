@@ -1,2 +1,2 @@
-# deneme1
-deneme
+# chat uygulaması tasarım
+
